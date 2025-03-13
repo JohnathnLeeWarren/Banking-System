@@ -1,0 +1,24 @@
+# Banking System outline written code in PYTHON
+
+Section 1:
+    I need a Class for the bank it will have name, contact info.
+    It will need function's for deposit, withdraw, transfer funds 
+    
+Section 2:
+    I need a main loop over the login til account holder is verified.
+    I will also need a loop over the main screen.
+    I will need a Function or If statement to allow user's to add to their account if they
+        already have fund's.
+    I may need a separate class for Admin abilities like creating accounts, closing accounts,
+        and freezing accounts.
+
+Section 3:
+    I will need a dictionary or list(array) or DB for account holders.
+    I will need a sub-class for account holders.
+
+Section 4:
+    Functionality:
+        Bank will have control over deposits, withdraws, and transfers.
+        Admin will have the ability to use the above functions with added functionality
+            like mentioned above.
+        Account holder will only have functionality from the bank class.
